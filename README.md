@@ -13,12 +13,6 @@ Frontend: React
 Backend: FastAPI / Django (learning)
 Tools: Git, GitHub, VS Code
 
-📌 Featured Projects
- Project  
- [TalentMatrix](https://github.com/divya07-oh/TalentMatrix) | *(add a 1-line description of what this does)* | JavaScript |
- [portfolio](https://github.com/divya07-oh/portfolio) | Personal portfolio website | JavaScript |
- [projectbridge](https://github.com/divya07-oh/projectbridge) | *(add a 1-line description)* | TypeScript |
-
  📫 Connect with me
 - LinkedIn: [Divya V](https://www.linkedin.com/in/divya-v-3b7896337)
 - Open to internship/junior developer opportunities
