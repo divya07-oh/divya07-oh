@@ -15,6 +15,7 @@ Tools: Git, GitHub, VS Code
 
  📫 Connect with me
 - LinkedIn: [Divya V](https://www.linkedin.com/in/divya-v-3b7896337)
+- portfolio: [https://portfolio-6qyg.vercel.app/]
 - Open to internship/junior developer opportunities
 
 ---
