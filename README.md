@@ -10,7 +10,7 @@ Currently learning full stack development end-to-end (React, Python, FastAPI) an
 🛠️ Tech Stack
 Languages:JavaScript, Python, HTML, CSS
 Frontend: React
-Backend: FastAPI / Django (learning)
+Backend: node.js , express.js
 Tools: Git, GitHub, VS Code
 
  📫 Connect with me
