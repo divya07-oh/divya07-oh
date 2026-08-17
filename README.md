@@ -37,3 +37,25 @@
 │  🌐 Building Real-World Web Applications            │
 │                                                      │
 └──────────────────────────────────────────────────────┘
+
+🚀 Currently Building
+<table> <tr> <td width="50%">
+🌐 Full Stack Applications
+
+Building complete web applications using:
+
+⚛️ React
+🐍 Python
+⚡ FastAPI
+🏗️ Django
+</td> <td width="50%">
+🧠 AI-Powered Features
+
+Exploring:
+
+🤖 LLM APIs
+🔗 Embeddings
+📚 RAG
+🧠 AI/ML Integration
+🌐 AI-powered Web Apps
+</td> </tr> </table>
