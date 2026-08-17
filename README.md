@@ -53,59 +53,13 @@ I'm currently learning full-stack development end-to-end using **React and Pytho
 
 ---
 
-<!-- ===================== CURRENTLY BUILDING ===================== -->
 
-## 🚀 Currently Building
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🌐 Full Stack Web Applications
-
-Building modern applications with:
-
-<br>
-
-⚛️ **React**
-
-🐍 **Python**
-
-⚡ **FastAPI / Django**
-
-🔗 **REST APIs**
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 AI-Powered Applications
-
-Exploring:
-
-<br>
-
-🧠 **LLM APIs**
-
-🔗 **Embeddings**
-
-📚 **RAG**
-
-🤖 **AI / ML Integration**
-
-</td>
-
-</tr>
-</table>
-
----
 
 <!-- ===================== TECH STACK ===================== -->
 
 ## ⚡ Tech Stack
 
-<div align="center">
+<div align="">
 
 ### 💻 Languages
 
