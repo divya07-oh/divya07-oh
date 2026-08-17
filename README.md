@@ -1,22 +1,39 @@
- Hi, I'm Divya 👋
+<!-- ===================== HERO ===================== -->
 
-Computer Science student building toward a career as an **AI Full Stack Developer**.
-Currently learning full stack development end-to-end (React, Python, FastAPI) and integrating AI/LLM features into web applications.
+<div align="center">
 
-🚀 Currently Building
-- Full stack web applications with React + Python (FastAPI/Django)
-- Exploring AI/ML integration — LLM APIs, embeddings, and RAG-based features
+# 👋 Hi, I'm Divya V
 
-🛠️ Tech Stack
-Languages:JavaScript, Python, HTML, CSS
-Frontend: React
-Backend: node.js , express.js
-Tools: Git, GitHub, VS Code
+### AI Full Stack Developer in Progress 🚀
 
- 📫 Connect with me
-- LinkedIn: [Divya V](https://www.linkedin.com/in/divya-v-3b7896337)
-- portfolio: [https://portfolio-6qyg.vercel.app/]
-- Open to internship/junior developer opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer+in+Progress;React+%2B+Python+Developer;Exploring+AI+%2F+ML+Integration;Building+Real-World+Web+Applications" />
+
+<br/>
+
+<p>
+  <a href="https://www.linkedin.com/in/divya-v-3b7896337">
+    <img src="https://img.shields.io/badge/LinkedIn-Divya%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-6qyg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
-⭐ *Building in public — following along with my 6-month journey to becoming a Full Stack + AI developer.*
+
+<!-- ===================== ABOUT ===================== -->
+
+## 🌌 About Me
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  👩‍💻 Computer Science Student                       │
+│  🚀 Aspiring AI Full Stack Developer                │
+│  ⚛️  React + Python Full Stack Development          │
+│  🧠 Exploring AI / ML & LLM Integration             │
+│  🌐 Building Real-World Web Applications            │
+│                                                      │
+└──────────────────────────────────────────────────────┘
