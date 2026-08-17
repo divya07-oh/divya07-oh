@@ -44,10 +44,10 @@ I'm currently learning full-stack development end-to-end using **React and Pytho
 
 <div align="center">
 
-|         🎯 Goal         |        🚀 Focus        | 🧠 Exploring |
-| :---------------------: | :--------------------: | :----------: |
-| AI Full Stack Developer | Full Stack Development |    AI / ML   |
-| Real-World Applications |     React + Python     |  LLMs & RAG  |
+|         🎯 Goal         |        🚀 Focus        | 
+| :---------------------: | :--------------------: |
+| AI Full Stack Developer | Full Stack Development |  
+| Real-World Applications |     React + node     |  
 
 </div>
 
@@ -59,7 +59,7 @@ I'm currently learning full-stack development end-to-end using **React and Pytho
 
 ## ⚡ Tech Stack
 
-<div align="">
+<div align="horizondal">
 
 ### 💻 Languages
 
