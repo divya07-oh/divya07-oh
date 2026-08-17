@@ -37,5 +37,8 @@
 │  🌐 Building Real-World Web Applications            │
 │                                                      │
 └──────────────────────────────────────────────────────┘
-
-       Tech Stack Languages:JavaScript, Python, HTML, CSS Frontend: React Backend: node.js , express.js Tools: Git, GitHub, VS Code
+Tech Stack Languages:
+JavaScript, Python, HTML, CSS
+Frontend: React
+Backend: node.js , express.js
+Tools: Git, GitHub, VS Code
