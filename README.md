@@ -213,45 +213,6 @@ I'm currently learning full-stack development end-to-end using **React and Pytho
 
 <!-- ===================== DEVELOPER JOURNEY ===================== -->
 
-## 🧭 My Developer Journey
-
-<div align="center">
-
-```text
-                 👩‍💻
-          Computer Science Student
-                  │
-                  ▼
-          ┌─────────────────┐
-          │    Frontend     │
-          │  React + JS     │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │     Backend     │
-          │ Node + Express  │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │   Full Stack    │
-          │  Applications   │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │    AI / ML      │
-          │ LLM + RAG + AI  │
-          └────────┬────────┘
-                   │
-                   ▼
-          🚀 AI Full Stack Developer
-```
-
-</div>
-
----
 
 <!-- ===================== WHAT I BUILD ===================== -->
 
@@ -284,18 +245,9 @@ Frontend + backend applications with real-world workflows.
 
 <td align="center" width="220">
 
-### 🤖
 
-**AI Applications**
 
-Exploring AI-powered features using LLMs and RAG.
 
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -337,45 +289,15 @@ Exploring AI-powered features using LLMs and RAG.
 
 ⚛️ **React Development**
 
-🐍 **Python Development**
 
-🤖 **AI-Powered Web Applications**
 
-🌐 **Software Development**
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/divya-v-3b7896337">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
- 
-
-<a href="https://portfolio-6qyg.vercel.app/">
-<img src="https://img.shields.io/badge/Explore%20My%20Work-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-</div>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
 
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/divya-v-3b7896337">
-<img src="https://img.shields.io/badge/LinkedIn-Divya%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://portfolio-6qyg.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-portfolio--6qyg.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-</div>
-
----
 
 <!-- ===================== FOOTER ===================== -->
 
