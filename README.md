@@ -64,13 +64,68 @@ I'm a **Computer Science student** building toward a career as an **AI Full Stac
 
 <br>
 
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/your-github-username/repo-one">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-one&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED" width="48%" />
+</a>
+<a href="https://github.com/your-github-username/repo-two">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-two&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED" width="48%" />
+</a>
+
+</div>
+
+<br>
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&title_color=7C3AED" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED" width="70%" />
+
+</div>
+
+<br>
+
+<!-- ===================== TROPHIES ===================== -->
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" width="90%" />
+
+</div>
+
+> ⚙️ The snake animates itself weekly via a GitHub Action — see setup note at the bottom.
+
+<br>
+
+<!-- ===================== RANDOM DEV QUOTE ===================== -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
@@ -108,4 +163,16 @@ I'm a **Computer Science student** building toward a career as an **AI Full Stac
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
+
+<!-- ===================== SETUP NOTE (delete before publishing) =====================
+
+1. Replace every "your-github-username" (7 places) with your real username.
+2. Replace repo-one / repo-two in Featured Projects with your actual repo names.
+3. For the contribution snake to work: in this repo, go to Actions → New workflow →
+   search "Snake" or add https://github.com/Platane/snk as a workflow. It generates
+   the SVG on a schedule and commits it to an "output" branch automatically — free, no server needed.
+4. All widgets (stats, streak, trophy, quotes) are hosted by public free APIs and
+   update live — no action needed once your username is correct.
+
+===================================================================================== -->
 
