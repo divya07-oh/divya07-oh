@@ -13,10 +13,6 @@
 </a>
 <a href="https://portfolio-6qyg.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-
-</div>
 
 <br>
 
@@ -64,72 +60,10 @@ I'm a **Computer Science student** building toward a career as an **AI Full Stac
 
 <br>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🌟 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/your-github-username/repo-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-one&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED" width="48%" />
-</a>
-<a href="https://github.com/your-github-username/repo-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-two&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED" width="48%" />
-</a>
 
-</div>
 
-<br>
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&title_color=7C3AED" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED" width="70%" />
-
-</div>
-
-<br>
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br>
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" width="90%" />
-
-</div>
-
-> ⚙️ The snake animates itself weekly via a GitHub Action — see setup note at the bottom.
-
-<br>
-
-<!-- ===================== RANDOM DEV QUOTE ===================== -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-<br>
 
 <!-- ===================== OPEN TO OPPORTUNITIES ===================== -->
 ## 💼 Open to Opportunities
@@ -175,4 +109,3 @@ I'm a **Computer Science student** building toward a career as an **AI Full Stac
    update live — no action needed once your username is correct.
 
 ===================================================================================== -->
-
